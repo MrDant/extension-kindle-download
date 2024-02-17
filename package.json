@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^22.0.0"
+  }
+}
